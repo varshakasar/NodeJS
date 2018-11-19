@@ -1,0 +1,18 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asyncOperations.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "local": "^0.3.3",
+    "mongoose": "^5.3.11",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "promise": "^8.0.2"
+  }
+}
